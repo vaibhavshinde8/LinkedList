@@ -1,2 +1,0 @@
-# LinkedList
-This is LinkedList 
